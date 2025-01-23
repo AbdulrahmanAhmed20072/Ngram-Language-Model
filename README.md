@@ -12,7 +12,7 @@ This repository contains an implementation of N-gram language models for text pr
 
 ## Files
 
-1. **`Ngram_LanguageModel.py`**: Python script implementing the project.
+1. **`Ngram_LanguageModel.ipynb`**: Python script implementing the project.
 2. **Dataset**: `en_US.twitter.txt` (example data used for training and testing).
 
 ## Installation
@@ -39,7 +39,7 @@ This repository contains an implementation of N-gram language models for text pr
 
 Run the script:
 ```bash
-python Ngram_LanguageModel.py
+python Ngram_LanguageModel.ipynb
 ```
 
 ## Outputs
